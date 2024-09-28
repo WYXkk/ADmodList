@@ -120,7 +120,7 @@ const modList=[
 			},
 			{
 				"name":"Antimatter Dimensions V",
-				"link":"https://glitchyfishys.github.io/AntimatterDimensions-V/",
+				"link":"https://glitchyfishys.github.io/AD-V/",
 				"author":"Glitchyfishy",
 				"description":`
 					This mod adds a new goal system to help you progress, and some other new contents.<br>
@@ -246,4 +246,4 @@ const modList=[
 		]
 	},
 ];
-const updateTimeStamp=1725555600;
+const updateTimeStamp=1727547270;
